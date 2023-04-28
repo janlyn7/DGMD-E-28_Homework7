@@ -1,5 +1,5 @@
 import {BrowserRouter as Router} from 'react-router-dom';
-import {GuessApp} from './app_guess.js';
+import {GuessApp} from './app_guess2.js';
 
 function App() {
 
